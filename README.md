@@ -1,0 +1,1 @@
+Echo lists all its command line parameters
