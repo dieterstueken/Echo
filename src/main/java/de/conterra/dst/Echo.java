@@ -1,4 +1,8 @@
+package de.conterra.dst;
 
+/**
+ * Print out all commandline arguments separately to debug argument splitting.
+ */
 public class Echo {
 
     public static void main(String ... args) {
